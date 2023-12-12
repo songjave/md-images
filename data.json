@@ -1,0 +1,227 @@
+{
+  "picBed": {
+    "current": "smms",
+    "uploader": "smms",
+    "smms": {
+      "token": "7CglnEiY4Yk5WBOuyqZNJ7emV083TKi7",
+      "backupDomain": ""
+    },
+    "imgur": {
+      "clientId": "74bb71470a2e427",
+      "proxy": "http://127.0.0.1:7890"
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": true
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": true
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": true
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": false
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      },
+      {
+        "type": "webdavplist",
+        "name": "WebDAV",
+        "visible": false
+      },
+      {
+        "type": "local",
+        "name": "本地上传",
+        "visible": false
+      },
+      {
+        "type": "sftpplist",
+        "name": "内置SFTP",
+        "visible": false
+      },
+      {
+        "type": "telegraphplist",
+        "name": "Telegraph",
+        "visible": false
+      },
+      {
+        "type": "piclist",
+        "name": "PicList",
+        "visible": true
+      }
+    ],
+    "github": {
+      "repo": "songjave/md-images",
+      "branch": "master",
+      "token": "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",
+      "path": "",
+      "customUrl": ""
+    },
+    "aliyun": {
+      "accessKeyId": "LTAI5tDyAwT5tNZbFhDAkW5M",
+      "accessKeySecret": "fSo4HLe7wSFVn6AV0hvGNCVQiXzsfp",
+      "bucket": "rpi-home",
+      "area": "oss-cn-hangzhou",
+      "path": "",
+      "customUrl": "",
+      "options": "",
+      "_configName": "Default",
+      "_id": "0b52651a-6b39-4575-bde0-953350e10c68",
+      "_createdAt": 1702403046440,
+      "_updatedAt": 1702403046440
+    },
+    "tcyun": {
+      "version": "v5",
+      "secretId": "AKIDugFZfV8xYu0teCWgbG4kDSfi3B2f4E8m",
+      "secretKey": "TijU3h6IG1by85pLfmmaAWosjNp34sTr",
+      "bucket": "md-image-1256197084",
+      "appId": "1256197084",
+      "area": "ap-shanghai",
+      "path": "picgo/",
+      "customUrl": "",
+      "options": "",
+      "_configName": "Default",
+      "_id": "7a152ea9-083e-4124-9834-fcbc160606dd",
+      "_createdAt": 1702403036847,
+      "_updatedAt": 1702403036847
+    },
+    "local": {
+      "_configName": "Default",
+      "_id": "3660243b-198a-4dba-bacf-e5cd30e6234f",
+      "_createdAt": 1702402992104,
+      "_updatedAt": 1702402992104
+    },
+    "piclist": {
+      "_configName": "Default",
+      "_id": "cd1bb157-eb0b-4dab-ab0b-94555eb38b9b",
+      "_createdAt": 1702402996464,
+      "_updatedAt": 1702402996464
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "showUpdateTip": true,
+    "privacyEnsure": true,
+    "uploadNotification": true,
+    "autoRename": true,
+    "rename": true,
+    "checkBetaUpdate": false,
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": false
+    },
+    "isListeningClipboard": false,
+    "mainWindowWidth": 800,
+    "mainWindowHeight": 600,
+    "deleteCloudFile": true,
+    "autoCopy": false,
+    "logLevel": [
+      "error"
+    ],
+    "logFileSizeLimit": 10,
+    "autoImport": false,
+    "sync": {
+      "type": "github",
+      "username": "songjave",
+      "repo": "md-images",
+      "branch": "master",
+      "token": "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",
+      "endpoint": "",
+      "proxy": "",
+      "interval": 60
+    }
+  },
+  "needReload": false,
+  "uploader": {
+    "local": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "3660243b-198a-4dba-bacf-e5cd30e6234f",
+          "_createdAt": 1702402992104,
+          "_updatedAt": 1702402992104
+        }
+      ],
+      "defaultId": "3660243b-198a-4dba-bacf-e5cd30e6234f"
+    },
+    "piclist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "cd1bb157-eb0b-4dab-ab0b-94555eb38b9b",
+          "_createdAt": 1702402996464,
+          "_updatedAt": 1702402996464
+        }
+      ],
+      "defaultId": "cd1bb157-eb0b-4dab-ab0b-94555eb38b9b"
+    },
+    "tcyun": {
+      "configList": [
+        {
+          "version": "v5",
+          "secretId": "AKIDugFZfV8xYu0teCWgbG4kDSfi3B2f4E8m",
+          "secretKey": "TijU3h6IG1by85pLfmmaAWosjNp34sTr",
+          "bucket": "md-image-1256197084",
+          "appId": "1256197084",
+          "area": "ap-shanghai",
+          "path": "picgo/",
+          "customUrl": "",
+          "options": "",
+          "_configName": "Default",
+          "_id": "7a152ea9-083e-4124-9834-fcbc160606dd",
+          "_createdAt": 1702403036847,
+          "_updatedAt": 1702403036847
+        }
+      ],
+      "defaultId": "7a152ea9-083e-4124-9834-fcbc160606dd"
+    },
+    "aliyun": {
+      "configList": [
+        {
+          "accessKeyId": "LTAI5tDyAwT5tNZbFhDAkW5M",
+          "accessKeySecret": "fSo4HLe7wSFVn6AV0hvGNCVQiXzsfp",
+          "bucket": "rpi-home",
+          "area": "oss-cn-hangzhou",
+          "path": "",
+          "customUrl": "",
+          "options": "",
+          "_configName": "Default",
+          "_id": "0b52651a-6b39-4575-bde0-953350e10c68",
+          "_createdAt": 1702403046440,
+          "_updatedAt": 1702403046440
+        }
+      ],
+      "defaultId": "0b52651a-6b39-4575-bde0-953350e10c68"
+    }
+  }
+}
